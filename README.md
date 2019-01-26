@@ -8,6 +8,16 @@ Practice socket programming and multi-threaded programming in Python.
 
 ## System Architecture
 
-![image-20181222205752643](https://raw.githubusercontent.com/Paranoid-kid/Image-Classifier-on-Telegram/master/img/1.png)
+![image-1](https://raw.githubusercontent.com/Paranoid-kid/Image-Classifier-on-Telegram/master/img/1.png)
 
 The system offer image classification service via Telegram bot. A user in Telegram can either send an image or the URL of an image to the bot, and the bot will feed the image into the model to generate  predictions and send back the result to the user.
+
+## Demo
+
+Send photo via link:
+
+![image-2](https://raw.githubusercontent.com/Paranoid-kid/Image-Classifier-on-Telegram/master/img/2.png)
+
+Send photo to bot directly:
+
+![image-3](https://raw.githubusercontent.com/Paranoid-kid/Image-Classifier-on-Telegram/master/img/3.png)
